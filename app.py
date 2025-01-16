@@ -67,6 +67,9 @@ def homepage():
         This application offers you an interactive way to perform statistical analyses. 
         Choose a feature from the sidebar to get started.
 
+
+    greetings Gabby :)
+
         **Features:**
         - **Load Seaborn Dataset:** Use predefined datasets from Seaborn for your analyses.
         - **File Upload:** Upload your own CSV or Excel files.
