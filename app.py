@@ -16,7 +16,7 @@ from io import BytesIO
 # Main Function & Sidebar (7 Options)  #
 #########################################
 def main():
-    st.title("Statistical Analyses with Streamlit")
+    st.title("Statistical Analysis by JM")
     
     st.sidebar.title("Navigation")
     app_mode = st.sidebar.selectbox(
